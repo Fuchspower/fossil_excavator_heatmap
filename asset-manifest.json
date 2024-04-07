@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fossil_excavator_heatmap/static/js/main.061da3ff.js",
+    "index.html": "/fossil_excavator_heatmap/index.html",
+    "main.061da3ff.js.map": "/fossil_excavator_heatmap/static/js/main.061da3ff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.061da3ff.js"
+  ]
+}
